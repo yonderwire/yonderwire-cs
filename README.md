@@ -1,23 +1,26 @@
 ### Yonderwire Control System
 A robust application designed to orchestrate and execute API calls for seamless updates across distributed systems.
 
-<!--<img src="https://repository-images.githubusercontent.com/974520909/6fcbf53e-44e4-4298-a4c7-bea3e7d27111" alt="logo"
-width="450">
-<img src="images/control system.png" alt="logo" width="450">-->
 <div>
-<img src="images/cs.png" alt="logo" width="450">
-  &nbsp;&nbsp;
-<img src="images/dashboard.png" alt="logo" width="450">
+  <img src="images/cs.png" alt="logo" width="450">&nbsp;&nbsp;
+  <img src="images/dashboard.png" alt="logo" width="450">
 </div>
 
+### Key Features 
+- Tech Stack  `Java 11`  `Springboot`  `React 18` `TypeScript 5.3`
+- Database `MariaDB` `PostgreSQL`
+- Tracking `Jira`
+- API Documentation `Swagger`
+- Usage Documentation `Notion`
+- Microservice Tools  
+  - Messaging Queue `Kafka`  
+  - Orchestration `Docker`
+- UI Libraries
+   - [x] [Tailwind CSS v4.1](tailwindcss.com)
+   - [x] [UI Kit Catalyst](https://catalyst.tailwindui.com/docs/dialog)
+   - [ ] Headless UI v2.1
+   - [ ] [animations](motion.dev)
+   - [ ] ui.shadcn.com
+   - [ ] [icons](radix-ui.com)
+ 
 
-
-
-
-### UI Tools
-- [ ] radix-ui.com
-- [ ] ui.shadcn.com
-- [ ] tailwindcss.com
-- [ ] motion.dev
-- Components
-  - [x] https://catalyst.tailwindui.com/docs/dialog
