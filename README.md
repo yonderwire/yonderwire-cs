@@ -19,3 +19,5 @@ width="450">
 - [ ] ui.shadcn.com
 - [ ] tailwindcss.com
 - [ ] motion.dev
+- Components
+  - [x] https://catalyst.tailwindui.com/docs/dialog
