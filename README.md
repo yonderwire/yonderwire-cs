@@ -7,7 +7,8 @@ A robust application designed to orchestrate and execute API calls for seamless 
 </div>
 
 ### Key Features 
-- Tech Stack  `Java 11`  `Springboot`  `React 18` `TypeScript 5.3`
+- Tech Stack  `Java 11`  `Springboot`  `React 19` `TypeScript 5.3`
+- Build `Vite` `Maven`
 - Database `MariaDB` `PostgreSQL`
 - Tracking `Jira`
 - API Documentation `Swagger`
