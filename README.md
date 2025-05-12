@@ -1,7 +1,7 @@
 ### Yonderwire Control System
 A robust application designed to orchestrate and execute API calls for seamless updates across distributed systems.
 
-<div>
+<div align=center>
   <img src="images/cs.png" alt="logo" width="450">&nbsp;&nbsp;
   <img src="images/dashboard.png" alt="logo" width="450">
 </div>
